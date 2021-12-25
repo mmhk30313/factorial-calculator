@@ -1,8 +1,19 @@
-# Getting Started with Factorial Calculator App
+# Project Name: Factorial Calculator
+## Live Link: [https://factorial-calculator.netlify.app/](https://factorial-calculator.netlify.app/)
 
-This project was bootstrapped with [Factorial Calculator App](https://github.com/facebook/create-react-app).
+## Getting Started with Factorial Calculator App
+
+This project was bootstrapped with [Factorial Calculator App](https://github.com/mmhk30313/factorial-calculator).
 
 ## Available Scripts
+
+For installation this app, you have to run in the project directory:
+
+### `git clone https://github.com/mmhk30313/factorial-calculator.git`
+
+### `cd factorial-calculator`
+
+### `npm install or yarn`
 
 In the project directory, you can run:
 
